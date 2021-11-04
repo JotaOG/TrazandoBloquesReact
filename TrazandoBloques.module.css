@@ -1,0 +1,36 @@
+  .header {
+    width: 1280px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: #6aa84f;
+  }
+  .navigation {
+    width: 300px;
+    height: 500px;
+    background-color: #6fa8dc;
+    display: inline-block;
+  }
+  .main_content {
+    width: 960px;
+    height: 600px;
+    background-color: #e06666;
+    vertical-align: top;
+    margin-left: 10px;
+    padding: 5px;
+    display: inline-block;
+  }
+  .subcontents {
+    width: 310px;
+    height: 390px;
+    margin: 5px 5px 0px 5px;
+    background-color: #ffd966;
+    display: inline-block;
+    align-items: center;
+  }
+  .advertisement {
+    width: 950px;
+    height: 190px;
+    margin: 5px;
+    background-color: #b4a7d6;
+  }
+ 
